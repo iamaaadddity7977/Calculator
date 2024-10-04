@@ -28,4 +28,3 @@ input.value = string;
         
     })
 })
-console(input);
